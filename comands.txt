@@ -1,0 +1,6 @@
+See how ocupied is the storage
+- forge inspect FundMe storageLayout  
+
+gas 
+- forge snapshot
+- forge snapshot --match-test testWithdrawFromMultipleFunders

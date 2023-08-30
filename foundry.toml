@@ -3,4 +3,7 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+# run foundry file from bash
+fii = true
+
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
